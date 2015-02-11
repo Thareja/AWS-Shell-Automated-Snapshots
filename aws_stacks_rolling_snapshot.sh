@@ -3,7 +3,7 @@
 # Created by  : Dhiraj Thareja - 
 # Version     : 1.2
 # Company     : AwesomeActually.com 
-# Description : Creates snapshots and tag them for a list of stacks. 
+# Description : Creates snapshots and tag them for a list of stacks. You can choose by stack tag.
 
 
 DATE=`date +'%m-%d-%Y-%H%M%S'`
