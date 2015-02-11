@@ -3,9 +3,9 @@ A few different ways you can create snapshots in Amazon Web Services. Automatica
 
 Also this was for a company that was doing hosting. So we added the following tags:
 
-Name 
-Owner 
-StackName 
+Name, 
+Owner, 
+StackName, 
 CustomerName
 
 And using these tags we tagged the snapshots as well.
